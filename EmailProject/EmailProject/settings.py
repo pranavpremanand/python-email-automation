@@ -45,8 +45,8 @@ INSTALLED_APPS = [
     "django_celery_beat",
 
     # custom apps
-    "contact",
-    "mainapp"
+    "mainapp",
+    'send_mail'
 ]
 
 # Indicates the frontend framework django crispy forms use
